@@ -1,6 +1,6 @@
 # Discord Self Request (DiscordSR) ライブラリ Ver0.1.0
 
-`DiscordSR` ライブラリは、DiscordのAPIと対話するために設計されたPythonパッケージです。ユーザーがDiscord上で様々なアクションを自動化することを可能にします。例えば、ニックネームの変更、aステータスの管理、ユーザーのモデレーションなどです。
+`DiscordSR` ライブラリは、DiscordのAPIを楽に叩くために作られたPythonパッケージです。ユーザーがDiscord上で様々なアクションを自動化することを可能にします。例えば、ニックネームの変更、ステータスの管理、リアクションの管理、webhookの管理などです。
 ## 更新機能
 
 - `tts_send` を追加
